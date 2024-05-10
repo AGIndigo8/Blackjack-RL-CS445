@@ -1,1 +1,1 @@
-# Blackjack-RL-CS445
+# Counting Cards in Blackjack with Reinforment Learning Using Simple NNs
